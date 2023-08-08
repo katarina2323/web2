@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Shopping.Api",
+    "\\Shopping.Api\\Controllers",
+    "\\Shopping.Api\\DTO",
+    "\\Shopping.Api\\DTO\\ArticleDTO"
+  ],
+  "SelectedNode": "\\Shopping.Api\\Controllers\\UserController.cs",
+  "PreviewInSolutionExplorer": false
+}
